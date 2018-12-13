@@ -3,7 +3,8 @@
 This ontology is an [OWL](https://www.w3.org/OWL/) interpretation of the structure of Records Disposal Authority documents and their corresponding database structured as the [National Archives of Australia](http://naa.gov.au). It is dependent on the [CRC Ontology](https://github.com/CSIRO-enviro-informatics/crs-ont) for overall context regarding Agencies and just models the RDA elements themselves.
 
 <img src="rda.png" title="RDA Ontology overview diagram" style="width:500px;" />  
-**Figure 1**: RDA Ontology overview diagram
+
+**Figure 1**: RDA Ontology overview diagram  
 
 ***incomplete***
 
